@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Rotate2DArray90/1.0.0": {
+        "runtime": {
+          "Rotate2DArray90.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rotate2DArray90/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
